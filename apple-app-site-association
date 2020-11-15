@@ -8,6 +8,8 @@
 					"/?/explorer/event/*",
 					"?/explorer/event2/*",
 					"users/*",
+					"users2/*",
+					"/users3/*",
 					"es/*"
 				]
 			},
