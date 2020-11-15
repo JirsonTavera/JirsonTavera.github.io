@@ -7,7 +7,7 @@
 			  "paths": [
 				  "/?/explorer/event/*",
 				  "users/*",
-				  "/"
+				  "/es"
 			  ]
 		  },
 		  {
@@ -15,7 +15,7 @@
 			  "paths": [
 				  "/?/explorer/event/*",
 				  "users/*",
-				  "/"
+				  "/es"
 			  ]
 		  }
     ]
