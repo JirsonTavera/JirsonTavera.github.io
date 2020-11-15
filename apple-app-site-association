@@ -6,14 +6,16 @@
 			  "appID": "PN993SQKPG.com.ospisoft.betsim.ios.app.debug",
 			  "paths": [
 				  "/?/explorer/event/*",
-				  "users/*"
+				  "users/*",
+				  "/"
 			  ]
 		  },
 		  {
 			  "appID": "PN993SQKPG.com.ospisoft.betsim.ios.app",
 			  "paths": [
-				  "/?/explorer/event/*"
-				  "users/*"
+				  "/?/explorer/event/*",
+				  "users/*",
+				  "/"
 			  ]
 		  }
     ]
